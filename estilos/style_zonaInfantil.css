@@ -1,0 +1,203 @@
+/*------FUENTES------------------------------*/
+/*------------------------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Fredericka+the+Great&family=Plus+Jakarta+Sans:wght@500&display=swap');
+
+/*------------------------------------*/
+
+  video {
+    position: fixed;
+    left: 0;
+    top: 0;
+    height:200%;
+    z-index: -1;
+  }
+nav{
+    background-color: #F4D3D1;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    
+    
+}
+
+#seleccion_nav_inicio{
+    :hover{
+        background-color: darksalmon;
+    }
+}
+
+/*-----------------------------------------------*/
+
+/*-----------------------------------------------*/
+/*----SECCION INICIO ZONA INFANTIL-------------------------------------------*/
+/*-----------------------------------------------*/
+
+#inicio_titulo_zonainfantil{
+    font-family: 'Fredericka the Great', cursive;
+    margin-top: 15%;
+    color: white;
+}
+
+#inicio_tarjeta{
+    margin-top: 30px;
+}
+/*-----------------------------------*/
+/*-----------------------------------*/
+
+/*-----------------------------------*/
+/*----SECCION FAVORITOS-------------------------------*/
+/*-----------------------------------*/
+/*-----------------------------------*/
+
+#zonaInfantil_titulo{
+    margin-top: 80px;
+    color: white;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+#tarjetaPrincipal_favoritoDelMes_zonaInfantil{
+    margin-top: 50px;
+}
+#tarjeta_favoritoDelMes_zonaInfantil{
+    
+    :hover{
+        background-color: #F4D3D1;
+        scale: 105%;
+    }
+}
+
+
+
+
+
+
+/*-----------------------------------*/
+/*-----------------------------------*/
+
+
+/*-----------------------------------*/
+/*-----SECCION CONSEJOS------------------------------*/
+/*-----------------------------------*/
+/*-----------------------------------*/
+
+#titulo_consejos{
+    margin-top: 50px;
+    color: white;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+#tarjeta_infantil_consejos{
+    margin-top: 20px;
+    
+}
+
+#tarj_consejo_seccinfantil{
+    background-color: white;
+    margin-top: 20px;
+    padding: 20px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+#txt_consejo_infantil1{
+    margin-top: 5%;
+    margin-right: -5%
+}
+
+#txt_consejo_infantil2{
+    margin-top: 4%;
+}
+
+#txt_consejo_infantil3{
+    margin-top: 5%;
+}
+
+
+
+/*-----------------------------------*/
+/*-----------------------------------*/
+
+
+
+/*-----------------------------------*/
+/*-----------------------------------*/
+/*-----------------------------------*/
+/*-----------------------------------*/
+
+
+
+/*-----------------------------------*/
+/*-----------------------------------*/
+
+
+
+
+
+
+/*-------------------------------------------*/
+/*-----FOOTER-------------------------------*/
+/*------------------------------------*/
+#footer{
+    margin-top: 50px;
+    background-color: #F4D3D1;
+    font-family: 'Dancing Script', cursive;
+    
+}
+
+#imagen_footer_derecha{
+    
+    transform: scaleX(-1);
+    scale: 50%;
+    margin-top: -20%;
+}
+
+#imagen_footer_izquierda{
+    
+  scale: 50%;
+  margin-top: -20%; 
+
+}
+
+
+
+#logo_footer_instagram{
+    scale: 25%;
+    margin-left: -20%;
+    :hover{
+        zoom: 115%;
+        animation-duration: 3s;
+    }
+    margin-top: -20%;
+    
+}
+
+#logo_footer_twiter{
+    scale: 25%;
+    margin-left: 15%;
+    :hover{
+        zoom: 115%;
+        
+    }
+    margin-top: -20%;
+
+}
+#logo_footer_facebook{
+    scale: 25%;
+    margin-right: 15%;
+    margin-left: -20%;
+    :hover{
+        zoom: 115%;
+        animation-duration: 3s;
+    }
+    margin-top: -20%;
+}
+#titulo_footer{
+    margin-top: 10%;
+    
+    scale: 110%;
+}
+
+#agradecimiento_footer{
+    margin: -5%;
+}
+
+
+
+/*------------------------------------*/
+/*------------------------------------*/

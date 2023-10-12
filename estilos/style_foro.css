@@ -1,0 +1,184 @@
+/*------FUENTES------------------------------*/
+/*------------------------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Fredericka+the+Great&family=Plus+Jakarta+Sans:wght@500&display=swap');
+
+/*------------------------------------*/
+
+  video {
+    position: fixed;
+    left: 0;
+    top: 0;
+    height:125%;
+    z-index: -1;
+  }
+nav{
+    background-color: #F4D3D1;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    
+    
+}
+
+#seleccion_nav_inicio{
+    :hover{
+        background-color: darksalmon;
+    }
+}
+
+
+/*--------------------*/
+/*foro inicio*/
+#foro_inicio{
+    margin-top: 50px;
+}
+
+#foro_titulo{
+    margin-left: -20%;
+    margin-top: 15%;
+    font-family: 'Fredericka the Great', cursive;
+    color: white;
+    text-shadow: 0px 1px 0px rgba(0,0,0,0.46);
+    scale: 150%;
+
+}
+
+/*--------------------------*/
+/*mejores opiniones*/
+
+#imagen_foro_mejoresopiniones{
+    scale: 10%;
+    margin-top: -25%;
+    margin-left: -55%;
+    
+
+    
+}
+#imagen_foro_mejoresopiniones1{
+    scale: 15%;
+    margin-top: -25%;
+    margin-left: -27%;
+    margin-right: 5%;
+    
+}
+
+#titulo_foro_mejoresopiniones{
+    margin-top: -25%;
+    
+}
+
+#tarjeta_foro_mejoresopiniones{
+    margin: 10px;
+    margin-top: 10px;
+}
+
+#encabezado_foro_mejoresopiniones{
+    margin-top: 20px;
+}
+/*-------------------------------------
+/*------------------------------------*/
+
+/*-----------------------------------*/
+/*SECCION TOPICOS*/
+/*-----------------------------------*/
+#card_topicos{
+    background-color: #23255D;
+    margin: 10px;
+    :hover{
+        background-color: #4d4e6e;
+
+    }
+    
+}
+
+#imagen_topicos{
+    scale: 10%;
+    margin-left: -70%;
+    margin-top: -29%;
+    
+   
+}
+
+#titulo_topico_seccion{
+   margin-left: 15%;
+   margin-top: -32%;
+   color: white;
+   
+}
+
+#boton_topico{
+    margin: 10px;
+}
+
+
+
+
+
+/*-----FOOTER-------------------------------*/
+/*------------------------------------*/
+#footer{
+    margin-top: 50px;
+    background-color: #F4D3D1;
+    font-family: 'Dancing Script', cursive;
+    
+}
+
+#imagen_footer_derecha{
+    
+    transform: scaleX(-1);
+    scale: 50%;
+    margin-top: -20%;
+}
+
+#imagen_footer_izquierda{
+    
+  scale: 50%;
+  margin-top: -20%; 
+
+}
+
+
+
+#logo_footer_instagram{
+    scale: 25%;
+    margin-left: -20%;
+    :hover{
+        zoom: 115%;
+        animation-duration: 3s;
+    }
+    margin-top: -20%;
+    
+}
+
+#logo_footer_twiter{
+    scale: 25%;
+    margin-left: 15%;
+    :hover{
+        zoom: 115%;
+        
+    }
+    margin-top: -20%;
+
+}
+#logo_footer_facebook{
+    scale: 25%;
+    margin-right: 15%;
+    margin-left: -20%;
+    :hover{
+        zoom: 115%;
+        animation-duration: 3s;
+    }
+    margin-top: -20%;
+}
+#titulo_footer{
+    margin-top: 10%;
+    
+    scale: 110%;
+}
+
+#agradecimiento_footer{
+    margin: -5%;
+}
+
+
+
+/*------------------------------------*/
+/*------------------------------------*/
