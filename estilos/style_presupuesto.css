@@ -1,0 +1,182 @@
+/*------FUENTES------------------------------*/
+/*------------------------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Fredericka+the+Great&family=Plus+Jakarta+Sans:wght@500&display=swap');
+
+/*------------------------------------*/
+
+  video {
+    position: fixed;
+    left: 0;
+    top: 0;
+    height:125%;
+    z-index: -1;
+    
+    
+  }
+
+nav{
+    background-color: #F4D3D1;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    
+    
+}
+
+#seleccion_nav_inicio{
+    :hover{
+        background-color: darksalmon;
+    }
+}
+
+
+/*-------------------------------------*/
+
+/*-------------------------------------*/
+/*-------TARJETA INICIO PRESUPUESTO------------------------------*/
+/*-------------------------------------*/
+#inicio_tarjeta_presupuesto{
+    color: white;
+    font-family: 'Fredericka the Great', cursive;
+    padding-top: 50px;
+    background-color: rgba(0, 0, 0, 0.419);
+
+}
+
+#inicio_titulo_presupuesto{
+    margin-top: 10%;
+    margin-left: -40%;
+}
+
+
+
+/*-------------------------------------*/
+/*----TARJETA TITULO PRESUPUESTO---------------------------------*/
+/*-------------------------------------*/
+
+#tarj_titulo_presupuesto{
+    background-color:  rgba(0, 0, 0, 0.419);
+    color: white;
+    font-family:'Plus Jakarta Sans', sans-serif;
+    padding: 100px;
+}
+
+#parrafo_titulo_presupuesto{
+    margin-top: 10%;
+    margin-left: -15%;
+    scale: 110%;
+
+}
+/*-------------------------------------
+/*----------------------------------
+
+/*------------------------------------*/
+/* IMPUT PRECIOS PRESUPUESTO*/
+/*------------------------------------*/
+#precio_totalpresupuesto{
+    padding: 50px;
+    background-color:  rgba(0, 0, 0, 0.419);
+    color: white;
+    font-family:'Plus Jakarta Sans', sans-serif;
+}
+#resultado_presupuesto{
+    margin: 20px;
+}
+
+/*-----------------------------------*/
+/* TARJETA SERVICIO PUERTA A PUERTA */
+/*---------------------------------*/
+#tarje_serviciopuertaApuerta{
+    
+    padding: 100px;
+    background-color:  rgba(0, 0, 0, 0.419);
+    color: white;
+    font-family:'Plus Jakarta Sans', sans-serif;
+}
+
+#titulo_requisitos{
+    margin-top: 100px;
+}
+
+#link{
+    
+    :hover{
+
+        background-color: #F4D3D1;
+        zoom: 110%;
+        
+    }
+}
+
+
+/*------------------------------------*/
+/*------------------------------------*/
+/* FOOTER*/
+/*------------------------------------*/
+#footer{
+   margin-top: -10%;
+    
+    background-color: #F4D3D1;
+    font-family: 'Dancing Script', cursive;
+    
+}
+
+#imagen_footer_derecha{
+    
+    transform: scaleX(-1);
+    scale: 50%;
+    margin-top: -20%;
+}
+
+#imagen_footer_izquierda{
+    
+  scale: 50%;
+  margin-top: -20%; 
+
+}
+
+
+
+#logo_footer_instagram{
+    scale: 25%;
+    margin-left: -20%;
+    :hover{
+        zoom: 115%;
+        animation-duration: 3s;
+    }
+    margin-top: -20%;
+    
+}
+
+#logo_footer_twiter{
+    scale: 25%;
+    margin-left: 15%;
+    :hover{
+        zoom: 115%;
+        
+    }
+    margin-top: -20%;
+
+}
+#logo_footer_facebook{
+    scale: 25%;
+    margin-right: 15%;
+    margin-left: -20%;
+    :hover{
+        zoom: 115%;
+        animation-duration: 3s;
+    }
+    margin-top: -20%;
+}
+#titulo_footer{
+    margin-top: 10%;
+    
+    scale: 110%;
+}
+
+#agradecimiento_footer{
+    margin: -5%;
+}
+
+
+
+/*------------------------------------*/
+/*------------------------------------*/
